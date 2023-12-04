@@ -7,3 +7,4 @@ def uppercase(str):
         else:
             res = res + char
     print(res)
+    print()
